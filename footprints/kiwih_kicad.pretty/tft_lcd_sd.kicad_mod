@@ -61,7 +61,7 @@
   (pad 11 thru_hole circle (at -1.27 -26) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 9 thru_hole circle (at 3.81 -26) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 10 thru_hole circle (at 1.27 -26) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model "${KIDROPBOX}/lib/3dmodels/1.8 TFT 128x160 SPI.STEP"
+  (model "${KIWIH_KICAD_LIB}/3dmodels/1.8 TFT 128x160 SPI.STEP"
     (offset (xyz 0 0 10))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

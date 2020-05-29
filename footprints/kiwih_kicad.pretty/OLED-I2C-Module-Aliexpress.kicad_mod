@@ -37,7 +37,7 @@
   (pad 2 thru_hole circle (at -1.27 -12.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 3 thru_hole circle (at 1.27 -12.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
   (pad 4 thru_hole circle (at 3.81 -12.4) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask))
-  (model "${KIDROPBOX}/lib/3dmodels/OLED TFT 0.96/OLED TFT 0.96 inch 64x128 monochrome.STEP"
+  (model "${KIWIH_KICAD_LIB}/3dmodels/OLED TFT 0.96/OLED TFT 0.96 inch 64x128 monochrome.STEP"
     (offset (xyz 0 14 10))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
