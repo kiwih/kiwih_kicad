@@ -5,6 +5,12 @@ D DC Optocoupler
 K NPN DC Optocoupler
 $ENDCMP
 #
+$CMP MCP23S08_SS
+D 16-bit I/O expander, I2C, interrupts, w pull-ups, SSOP-28
+K SPI parallel port expander
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
+$ENDCMP
+#
 $CMP SFH617A-1
 D Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-80, -55 to +110 degree Celcius, UL, BSI, FIMKO, cUL, THT PDIP-4
 K Optocoupler, Phototransistor Output, 5300 VRMS, VCEO 70V, CTR% 40-80
