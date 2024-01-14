@@ -39,6 +39,6 @@
     (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp d4ceca29-b18e-4714-b484-9d3cc77c1de7))
   (pad "1" smd rect (at -1.6 0) (size 1.8 2.6) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp a73ba36f-09bf-401f-8ac5-b31862c8aa83))
-  (pad "1" smd rect (at 1.6 0) (size 1.8 2.6) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd rect (at 1.6 0) (size 1.8 2.6) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp ac1e6051-6705-4c7d-8fcc-517b146cc919))
 )
